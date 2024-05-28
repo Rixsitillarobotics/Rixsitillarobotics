@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rixsitillarobotics
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning ardino
-- 💞️ I’m looking to collaborate on pyton
-- 📫 How to reach me by telegram or gmail
+- 🌱 I’m currently learning arduino
+- 💞️ I’m looking to collaborate on python
+- 📫 you can  reach me by telegram(@RTLrobotics) or gmail(rixsitillaroboticspro@gmail.com)
 
 <!---
 Rixsitillarobotics/Rixsitillarobotics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

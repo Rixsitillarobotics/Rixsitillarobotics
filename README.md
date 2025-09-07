@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Rixsitillarobotics
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning arduino
-- 💞️ I’m looking to collaborate on python
-- 📫 you can  reach me by telegram(@RTLrobotics) or gmail(rixsitillaroboticspro@gmail.com)
+- 👋 Hi, I’m @RTLrobotics
+- 👀 I’m interested in IT/Robotics
+- 🌱 I’m currently learning ROS2
+- 📫 you can  reach me by telegram(@RTLrobotics),Facebook rixsitilla valibekov  or gmail(rixsitillarobotics@gmail.com)
 
-<!---
-Rixsitillarobotics/Rixsitillarobotics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
